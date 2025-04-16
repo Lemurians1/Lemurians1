@@ -47,10 +47,8 @@
 - 🧨 **Offensive Tools**: Nmap | Hydra | Metasploit | Burp Suite | Nikto
 
 ---
-
-
 <p align="center">
-  <img src="https://media.giphy.com/media/yoJC2El7xJkYCadlWE/giphy.gif" width="300" alt="cyber loading animation" />
+  <img src="https://komarev.com/ghpvc/?username=santhosh&label=Profile%20views&color=0e75b6&style=flat&count=153" alt="Profile Views" />
 </p>
 
 ---
