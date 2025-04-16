@@ -20,12 +20,12 @@
 
 ### 🛠️ Tools & Technologies
 
-- 🛡️ **SIEM**: Splunk | ELK | Wazuh  
-- 📦 **Malware Analysis**: Ghidra | PEStudio | VirusTotal | Any.Run | Cuckoo Sandbox  
+- 🛡️ **SIEM**: Splunk | Wazuh  
+- 📦 **Malware Analysis**: EDR | VirusTotal | ClamAV
 - 🧰 **Scripting**: PowerShell | Bash | Python  
-- 📡 **Network Tools**: Wireshark | Nmap | Suricata | Zeek | Tcpdump  
-- 🔍 **Monitoring & Response**: Security Onion | Velociraptor | CrowdStrike Falcon | OSSEC  
-- 🧪 **Threat Intelligence**: MISP | OpenCTI | TheHive | YARA
+- 📡 **Network Tools**: Wireshark | Nmap | Tcpdump  
+- 🔍 **Monitoring & Response**: CrowdStrike Falcon 
+- 🧱 **Frameworks**: MITRE ATT&CK | Cyber Kill Chain | NIST | CIS Controls | OWASP
 
 ---
 
