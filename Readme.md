@@ -20,10 +20,12 @@
 
 ### 🛠️ Tools & Technologies
 
-- 🛡️ **SIEM**: Splunk | Wazuh   
+- 🛡️ **SIEM**: Splunk | ELK | Wazuh  
+- 📦 **Malware Analysis**: Ghidra | PEStudio | VirusTotal | Any.Run | Cuckoo Sandbox  
 - 🧰 **Scripting**: PowerShell | Bash | Python  
-- 📡 **Network Tools**: Wireshark | Nmap | Suricata | Tcpdump  
-- 🔍 **Monitoring & Response**: CrowdStrike Falcon 
+- 📡 **Network Tools**: Wireshark | Nmap | Suricata | Zeek | Tcpdump  
+- 🔍 **Monitoring & Response**: Security Onion | Velociraptor | CrowdStrike Falcon | OSSEC  
+- 🧪 **Threat Intelligence**: MISP | OpenCTI | TheHive | YARA  
 - 🧱 **Frameworks**: MITRE ATT&CK | Cyber Kill Chain | NIST | CIS Controls | OWASP
 
 ---
@@ -31,8 +33,17 @@
 ### 🔍 Cyber Visuals & Effects
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZtcHZmbTZkcnBjNjJ2MTFuc3pzMzYzOTYzNWJpMG94eTFvcGlnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FtLZ05FBnC48uYGzuO/giphy.gif" width="240" alt="matrix gif"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1vajhtb3lvYW9qYnZ0M2FzdjlxcjVjMmh1c2VqMnlkYXI3ZHJtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" width="240" alt="matrix gif" />
+  <img src="https://media.giphy.com/media/L0Nmyt5P0fSbm/giphy.gif" width="240" alt="terminal gif"/>
+  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="240" alt="matrix gif" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR0u8vR9Fj3KJEA/giphy.gif" width="400" alt="cyber defense" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="cyber protection animation" />
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="300" alt="cyber eye animation" />
 </p>
 
 ---
@@ -40,7 +51,8 @@
 ### 🧰 Common Cybersecurity Tools
 
 - 🔧 **Utilities**: CyberChef | Hashcat | Shodan | VirusTotal API
-- 🧠 **Memory Analysis**: Volatility 
+- ⚙️ **Endpoint**: Sysmon | Autoruns | Procmon | OSQuery
+- 🧠 **Memory Analysis**: Volatility | Rekall
 - 📑 **Log Analysis**: LogParser | Chainsaw | Timesketch
 - 📜 **Forensics**: FTK Imager | Autopsy | Plaso
 - 🧨 **Offensive Tools**: Nmap | Hydra | Metasploit | Burp Suite | Nikto
@@ -48,7 +60,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJldGc4eWg4Zmdvc2diZ3VwdXo1YWdvdWxuZmFtdDdlZjNuaDF1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QvvVnSnmLeENMcsOJg/giphy.gif" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=santhosh&label=Profile%20views&color=0e75b6&style=flat&count=153" alt="Profile Views" />
 </p>
 
 <p align="center">
