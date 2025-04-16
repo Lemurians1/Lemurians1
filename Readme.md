@@ -48,7 +48,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santhosh&label=Profile%20views&color=0e75b6&style=flat&count=153" alt="Profile Views" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJldGc4eWg4Zmdvc2diZ3VwdXo1YWdvdWxuZmFtdDdlZjNuaDF1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QvvVnSnmLeENMcsOJg/giphy.gif" alt="Profile Views" />
 </p>
 
 <p align="center">
