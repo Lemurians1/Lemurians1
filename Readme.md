@@ -20,12 +20,10 @@
 
 ### 🛠️ Tools & Technologies
 
-- 🛡️ **SIEM**: Splunk | ELK | Wazuh  
-- 📦 **Malware Analysis**: Ghidra | PEStudio | VirusTotal | Any.Run | Cuckoo Sandbox  
+- 🛡️ **SIEM**: Splunk | Wazuh   
 - 🧰 **Scripting**: PowerShell | Bash | Python  
-- 📡 **Network Tools**: Wireshark | Nmap | Suricata | Zeek | Tcpdump  
-- 🔍 **Monitoring & Response**: Security Onion | Velociraptor | CrowdStrike Falcon | OSSEC  
-- 🧪 **Threat Intelligence**: MISP | OpenCTI | TheHive | YARA  
+- 📡 **Network Tools**: Wireshark | Nmap | Suricata | Tcpdump  
+- 🔍 **Monitoring & Response**: CrowdStrike Falcon 
 - 🧱 **Frameworks**: MITRE ATT&CK | Cyber Kill Chain | NIST | CIS Controls | OWASP
 
 ---
@@ -34,7 +32,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJldGc4eWg4Zmdvc2diZ3VwdXo1YWdvdWxuZmFtdDdlZjNuaDF1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif" width="240" alt="terminal gif"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNudWs0bGRhYTNvYmc3emRvcTRwNTNraG1keDQ1emZyOGg1Ymg1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9sbsxM2SV65WLoJAYU/giphy.gif" width="140" alt="matrix gif" />
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47tojt2xm8q0yhj5ean8vx12qi445mmhhftsgu885h&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="240" alt="matrix gif" />
 </p>
 
 
@@ -43,8 +41,7 @@
 ### 🧰 Common Cybersecurity Tools
 
 - 🔧 **Utilities**: CyberChef | Hashcat | Shodan | VirusTotal API
-- ⚙️ **Endpoint**: Sysmon | Autoruns | Procmon | OSQuery
-- 🧠 **Memory Analysis**: Volatility | Rekall
+- 🧠 **Memory Analysis**: Volatility 
 - 📑 **Log Analysis**: LogParser | Chainsaw | Timesketch
 - 📜 **Forensics**: FTK Imager | Autopsy | Plaso
 - 🧨 **Offensive Tools**: Nmap | Hydra | Metasploit | Burp Suite | Nikto
