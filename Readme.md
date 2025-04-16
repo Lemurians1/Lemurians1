@@ -28,11 +28,11 @@
 
 ---
 
-### 🔍 Cyber Visuals & Effects
+### 🔍 
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJldGc4eWg4Zmdvc2diZ3VwdXo1YWdvdWxuZmFtdDdlZjNuaDF1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif" width="240" alt="terminal gif"/>
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47tojt2xm8q0yhj5ean8vx12qi445mmhhftsgu885h&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="240" alt="matrix gif" />
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47tojt2xm8q0yhj5ean8vx12qi445mmhhftsgu885h&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200" alt="matrix gif" />
 </p>
 
 
@@ -48,13 +48,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santhosh&label=Profile%20views&color=0e75b6&style=flat&count=153" alt="Profile Views" />
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/yoJC2El7xJkYCadlWE/giphy.gif" width="300" alt="cyber loading animation" />
-</p>
 
 ---
 
