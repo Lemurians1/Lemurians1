@@ -34,17 +34,9 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJldGc4eWg4Zmdvc2diZ3VwdXo1YWdvdWxuZmFtdDdlZjNuaDF1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif" width="240" alt="terminal gif"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNudWs0bGRhYTNvYmc3emRvcTRwNTNraG1keDQ1emZyOGg1Ymg1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FtLZ05FBnC48uYGzuO/giphy.gif" width="240" alt="matrix gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNudWs0bGRhYTNvYmc3emRvcTRwNTNraG1keDQ1emZyOGg1Ymg1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9sbsxM2SV65WLoJAYU/giphy.gif" width="240" alt="matrix gif" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR0u8vR9Fj3KJEA/giphy.gif" width="400" alt="cyber defense" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="cyber protection animation" />
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="300" alt="cyber eye animation" />
-</p>
 
 ---
 
