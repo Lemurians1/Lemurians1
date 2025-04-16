@@ -31,7 +31,7 @@
 ### 🔍 Cyber Visuals & Effects
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L0Nmyt5P0fSbm/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdpMzJxdDZ1NmUzaDljNHh0amh3cDNsMXVkd2FrbWpiMTVhcTk2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FtLZ05FBnC48uYGzuO/giphy.gif" width="240" alt="terminal gif"/>
+  <img src="" width="240" alt="terminal gif"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1vajhtb3lvYW9qYnZ0M2FzdjlxcjVjMmh1c2VqMnlkYXI3ZHJtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" width="240" alt="matrix gif" />
 </p>
 
