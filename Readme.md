@@ -27,7 +27,6 @@
 - 🔍 **Monitoring & Response**: Security Onion | Velociraptor | CrowdStrike Falcon | OSSEC  
 - 🧪 **Threat Intelligence**: MISP | OpenCTI | TheHive | YARA  
 - 🧱 **Frameworks**: MITRE ATT&CK | Cyber Kill Chain | NIST | CIS Controls | OWASP
-- 🧰 **Common Tools**: Sysmon | Procmon | Autoruns | Sysinternals Suite | LogParser | Regshot
 
 ---
 
@@ -42,26 +41,30 @@
   <img src="https://media.giphy.com/media/l3vR0u8vR9Fj3KJEA/giphy.gif" width="400" alt="cyber defense" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="cyber protection animation" />
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="300" alt="cyber eye animation" />
+</p>
+
 ---
 
 ### 🧰 Common Cybersecurity Tools
 
+- 🔧 **Utilities**: CyberChef | Hashcat | Shodan | VirusTotal API
+- ⚙️ **Endpoint**: Sysmon | Autoruns | Procmon | OSQuery
 - 🧠 **Memory Analysis**: Volatility | Rekall
 - 📑 **Log Analysis**: LogParser | Chainsaw | Timesketch
-- ⚙️ **Endpoint**: Sysmon | Autoruns | Procmon | OSQuery
-- 🔧 **Utilities**: CyberChef | Hashcat | Shodan | VirusTotal API
 - 📜 **Forensics**: FTK Imager | Autopsy | Plaso
+- 🧨 **Offensive Tools**: Nmap | Hydra | Metasploit | Burp Suite | Nikto
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=santhosh&label=Profile%20views&color=0e75b6&style=flat&count=153" alt="Profile Views" />
 </p>
 
-<!-- SNAKE ANIMATION SETUP -->
-<!-- Make sure GitHub Actions is configured correctly for this to work -->
 <p align="center">
-  <img src="https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://media.giphy.com/media/yoJC2El7xJkYCadlWE/giphy.gif" width="300" alt="cyber loading animation" />
 </p>
 
 ---
