@@ -27,13 +27,14 @@
 - 🔍 **Monitoring & Response**: Security Onion | Velociraptor | CrowdStrike Falcon | OSSEC  
 - 🧪 **Threat Intelligence**: MISP | OpenCTI | TheHive | YARA  
 - 🧱 **Frameworks**: MITRE ATT&CK | Cyber Kill Chain | NIST | CIS Controls | OWASP
+- 🧰 **Common Tools**: Sysmon | Procmon | Autoruns | Sysinternals Suite | LogParser | Regshot
 
 ---
 
 ### 🔍 Cyber Visuals & Effects
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L0Nmyt5P0fSbm/giphy.gif" width="240" alt="terminal gif" style="transform: rotate(-1deg);"/>
+  <img src="https://media.giphy.com/media/L0Nmyt5P0fSbm/giphy.gif" width="240" alt="terminal gif"/>
   <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="240" alt="matrix gif" />
 </p>
 
@@ -43,11 +44,13 @@
 
 ---
 
-### 📌 Languages I Use Most
+### 🧰 Common Cybersecurity Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&langs_count=6&hide=html,css&custom_title=Most%20Used%20Languages&include_all_commits=true&hide_border=true&card_width=400"/>
-</p>
+- 🧠 **Memory Analysis**: Volatility | Rekall
+- 📑 **Log Analysis**: LogParser | Chainsaw | Timesketch
+- ⚙️ **Endpoint**: Sysmon | Autoruns | Procmon | OSQuery
+- 🔧 **Utilities**: CyberChef | Hashcat | Shodan | VirusTotal API
+- 📜 **Forensics**: FTK Imager | Autopsy | Plaso
 
 ---
 
@@ -66,19 +69,3 @@
 <p align="center">
   <strong><i>Always curious. Always learning. Always securing.</i></strong> 🔐
 </p>
-
-<style>
-  @keyframes shake {
-    0% { transform: translate(1px, 1px) rotate(0deg); }
-    10% { transform: translate(-1px, -2px) rotate(-1deg); }
-    20% { transform: translate(-3px, 0px) rotate(1deg); }
-    30% { transform: translate(3px, 2px) rotate(0deg); }
-    40% { transform: translate(1px, -1px) rotate(1deg); }
-    50% { transform: translate(-1px, 2px) rotate(-1deg); }
-    60% { transform: translate(-3px, 1px) rotate(0deg); }
-    70% { transform: translate(3px, 1px) rotate(-1deg); }
-    80% { transform: translate(-1px, -1px) rotate(1deg); }
-    90% { transform: translate(1px, 2px) rotate(0deg); }
-    100% { transform: translate(1px, -2px) rotate(-1deg); }
-  }
-</style>
