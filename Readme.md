@@ -29,15 +29,19 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🔍 Cyber Visuals & Fun
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://media.giphy.com/media/f9XgHHcRJl2Og/giphy.gif" width="250" alt="cyber gif" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="hacker gif" />
 </p>
 
+---
+
+### 📌 Languages I Use Most
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&langs_count=6&hide=html,css&custom_title=Most%20Used%20Languages&include_all_commits=true&hide_border=true&card_width=400"/>
 </p>
 
 ---
