@@ -20,20 +20,25 @@
 
 ### 🛠️ Tools & Technologies
 
-- 🛡️ **SIEM**: Splunk | Wazuh  
-- 📦 **Malware Analysis**: EDR | VirusTotal | ClamAV
+- 🛡️ **SIEM**: Splunk | ELK | Wazuh  
+- 📦 **Malware Analysis**: Ghidra | PEStudio | VirusTotal | Any.Run | Cuckoo Sandbox  
 - 🧰 **Scripting**: PowerShell | Bash | Python  
-- 📡 **Network Tools**: Wireshark | Nmap | Tcpdump  
-- 🔍 **Monitoring & Response**: CrowdStrike Falcon 
+- 📡 **Network Tools**: Wireshark | Nmap | Suricata | Zeek | Tcpdump  
+- 🔍 **Monitoring & Response**: Security Onion | Velociraptor | CrowdStrike Falcon | OSSEC  
+- 🧪 **Threat Intelligence**: MISP | OpenCTI | TheHive | YARA  
 - 🧱 **Frameworks**: MITRE ATT&CK | Cyber Kill Chain | NIST | CIS Controls | OWASP
 
 ---
 
-### 🔍 Cyber Visuals & Fun
+### 🔍 Cyber Visuals & Effects
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f9XgHHcRJl2Og/giphy.gif" width="250" alt="cyber gif" />
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="hacker gif" />
+  <img src="https://media.giphy.com/media/L0Nmyt5P0fSbm/giphy.gif" width="240" alt="terminal gif" style="transform: rotate(-1deg);"/>
+  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="240" alt="matrix gif" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR0u8vR9Fj3KJEA/giphy.gif" width="400" alt="cyber defense" />
 </p>
 
 ---
@@ -58,4 +63,22 @@
 
 ---
 
-<p align="center">*Always curious. Always learning. Always securing.* 🔐</p>
+<p align="center">
+  <strong><i>Always curious. Always learning. Always securing.</i></strong> 🔐
+</p>
+
+<style>
+  @keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+  }
+</style>
