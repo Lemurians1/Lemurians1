@@ -34,7 +34,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/L0Nmyt5P0fSbm/giphy.gif" width="240" alt="terminal gif"/>
-  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="240" alt="matrix gif" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1vajhtb3lvYW9qYnZ0M2FzdjlxcjVjMmh1c2VqMnlkYXI3ZHJtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" width="240" alt="matrix gif" />
 </p>
 
 <p align="center">
